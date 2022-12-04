@@ -1,4 +1,9 @@
 .greeting {
     background-color: rgb(234, 0, 255);
     color:aliceblue;
+    font-size: 70px;
+}
+
+p {
+    font-size: 100px;
 }
